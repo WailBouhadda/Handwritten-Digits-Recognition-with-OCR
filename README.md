@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Handwritten Digits Recognition with OCR and KNN project! This practical project is a part of an online OCR (Optical Character Recognition) course and focuses on the exciting field of handwritten digits recognition using the K-Nearest Neighbors (KNN) algorithm and OpenCV.
+Welcome to the Handwritten Digits Recognition with OCR and KNN project. This practical project is a part of an online OCR (Optical Character Recognition) course and focuses on the exciting field of handwritten digits recognition using the K-Nearest Neighbors (KNN) algorithm and OpenCV.
 
 ## Project Overview
 
